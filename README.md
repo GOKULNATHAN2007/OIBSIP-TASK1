@@ -39,5 +39,5 @@ FoodMunch is a modern and user-friendly frontend project that demonstrates respo
 
 
 🌐 Live Demo
-GitHub Pages:https://gokulnathan2007.github.io/OIBSIP/
+GitHub Pages:https://resplendent-hummingbird-7c7ee8.netlify.app/
 
